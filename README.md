@@ -88,7 +88,7 @@
 ## Рабочий процесс
 
 1. **Обработка изображений**: 
-   Для анализа изображений их необходимо поместить в папку `extracted_files/images_for_fitzpatrick`.
+   Для анализа изображений их необходимо поместить в папку `extracted_files/images_for_fitzpatrick`(по умолчанию в нее загружаются файлы с [Google-диска](https://drive.google.com/drive/folders/1K0JRk908tDp7xwV_5sjq7FWdNBvZdQKl?usp=sharing).
 
 2. **Результаты работы**: 
    После выполнения алгоритма, результаты сохраняются в папке `extracted_files/results`. Это включает два файла:
