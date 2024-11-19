@@ -1,4 +1,4 @@
-# "Skin Tone Classifier"
+# Skin Tone Classifier
 
 ## Описание
 
